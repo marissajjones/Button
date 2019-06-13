@@ -1,0 +1,16 @@
+
+p {
+  text-align: center;
+  background color:
+  text-shadow: 20px 20px 20px;
+  text-decoration: none;
+}
+
+.button1 {
+  background-color: green;
+  font-size: 18px;
+}
+
+.button1:hover {
+  background-color: red;
+}
